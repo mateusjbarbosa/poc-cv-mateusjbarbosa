@@ -17,7 +17,7 @@ export default function Home() {
       <header className="bg-blue-900 flex flex-col items-center">
         <img
           className="w-48 h-48 rounded-full mx-auto mt-8"
-          src="https://unavatar.now.sh/github/mateusjbarbosa"
+          src="https://unavatar.now.sh/telegram/mateusjbarbosa"
           alt="Esse sou eu!"
         />
         <h1 className="font-fira text-4xl text-white font-bold mt-8">
