@@ -41,6 +41,7 @@ const textVariants = {
   hero: 'font-fira font-semibold text-3xl text-white text-center max-w-3xl',
   subHero: 'font-fira font-light text-xl text-blue-400 text-center max-w-3xl mt-4 mb-4',
   highlight: 'font-fira font-light text-lg text-blue-400 max-w-3xl mt-2 mb-4',
+  small: 'font-fira text-base text-blue-400 mt-2',
 };
 
 const Text = ({ variant, children }) => (
