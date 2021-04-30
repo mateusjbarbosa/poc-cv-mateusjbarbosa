@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Image from '../commons/Image';
-import { Highlight, Title } from '../commons/Heading';
+import { Highlight, Title } from '../commons/Text';
 
 const Header = () => (
   <>

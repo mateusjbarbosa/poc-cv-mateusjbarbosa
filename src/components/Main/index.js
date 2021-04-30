@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Card from '../commons/Card';
-import { Subtitle, Text } from '../commons/Heading';
+import { Subtitle, Text } from '../commons/Text';
 
 const Hero = () => (
   <section className="flex flex-col items-center">

@@ -3,7 +3,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 import Button from '../Button';
-import { MinorTitle, Text } from '../Heading';
+import { MinorTitle, Text } from '../Text';
 
 const Card = ({ title, content, ctaText }) => (
   <div className="flex flex-col items-start w-1/3 p-4 bg-blue-700 shadow-md rounded-lg mb-4">
